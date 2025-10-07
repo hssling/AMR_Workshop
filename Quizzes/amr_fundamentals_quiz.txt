@@ -1,0 +1,164 @@
+AMR Fundamentals Knowledge Assessment Quiz
+
+This quiz tests understanding of basic antimicrobial resistance concepts, mechanisms, and epidemiology. Each question has a single correct answer unless otherwise specified. Total possible points: 30
+
+Topic: Antimicrobial Resistance Fundamentals
+Date Created: October 2025
+Target Audience: Healthcare professionals, medical students, pharmacists
+
+---
+
+Question 1 (3 points)
+What is the primary mechanism of methicillin-resistant Staphylococcus aureus (MRSA) resistance to methicillin and other beta-lactam antibiotics?
+
+a) Production of beta-lactamase enzymes
+b) Altered penicillin-binding proteins (PBP2a)
+c) Efflux pump overexpression
+d) Porin channel mutations
+
+Answer: b) Altered penicillin-binding proteins (PBP2a)
+
+Explanation: MRSA develops resistance through the acquisition of the mecA gene, which encodes for PBP2a - a penicillin-binding protein with low affinity for beta-lactam antibiotics. This allows cell wall synthesis to continue even in the presence of methicillin.
+
+---
+
+Question 2 (3 points)
+Which WHO "priority pathogen" has the highest global mortality rate among the critically important pathogens?
+
+a) Staphylococcus aureus
+b) Escherichia coli
+c) Acinetobacter baumannii
+d) Pseudomonas aeruginosa
+
+Answer: c) Acinetobacter baumannii
+
+Explanation: According to WHO estimates, Acinetobacter baumannii causes approximately 400,000 deaths annually worldwide, more than any other single priority pathogen. It has extremely high mortality rates (up to 60-70%) in critically ill patients.
+
+---
+
+Question 3 (3 points)
+What is the primary driving factor for the development of antimicrobial resistance?
+
+a) Genetic mutation in bacteria
+b) Antimicrobial exposure and selection pressure
+c) Bacterial conjugation and horizontal gene transfer
+d) Environmental contamination
+
+Answer: b) Antimicrobial exposure and selection pressure
+
+Explanation: Antimicrobial use creates selective pressure favoring resistant bacteria. While mutations and horizontal gene transfer contribute, the selection pressure from antibiotic exposure is the primary driver of AMR development and spread.
+
+---
+
+Question 4 (3 points)
+Which antibiotic class is considered the drug of last resort for carbapenem-resistant infections?
+
+a) Aminoglycosides (gentamicin)
+b) Tetracyclines (tigecycline)
+c) Polymyxins (colistin)
+d) Glycopeptides (vancomycin)
+
+Answer: c) Polymyxins (colistin)
+
+Explanation: Colistin (polymyxin E) is considered the last-line antibiotic for extensively drug-resistant Gram-negative infections, particularly carbapenem-resistant Enterobacteriaceae (CRE). It has significant nephrotoxicity and neurotoxicity but may be the only effective option for pan-resistant infections.
+
+---
+
+Question 5 (3 points)
+What percentage of global antibiotics are estimated to be used in human medicine versus livestock production and aquaculture?
+
+a) 80% human, 20% livestock
+b) 60% human, 40% livestock
+c) 40% human, 60% livestock
+d) 20% human, 80% livestock
+
+Answer: b) 60% human, 40% livestock
+
+Explanation: Approximately 60% of antibiotics globally are used for human medicine, while about 40% are used in livestock, aquaculture, and other animals. However, the misuse in agriculture contributes significantly to AMR development through environmental contamination and food chain transmission.
+
+---
+
+Question 6 (3 points)
+Which resistance mechanism involves bacteria actively pumping out antibiotics using energy-dependent efflux pumps?
+
+a) Target site modification
+b) Enzymatic inactivation
+c) Membrane impermeability
+d) Active efflux
+
+Answer: d) Active efflux
+
+Explanation: Efflux pumps are membrane proteins that actively transport antibiotics out of bacterial cells, reducing intracellular concentrations below inhibitory levels. This is an important mechanism in Pseudomonas aeruginosa, E. coli, and many other Gram-negative bacteria.
+
+---
+
+Question 7 (3 points)
+According to WHO estimates, what is the projected annual global death toll from antimicrobial resistance by 2050 if no action is taken?
+
+a) 2 million deaths
+b) 5 million deaths
+c) 10 million deaths
+d) 20 million deaths
+
+Answer: c) 10 million deaths
+
+Explanation: The WHO estimates that AMR could cause 10 million deaths annually by 2050 if current trends continue unchecked. This would surpass cancer as a leading cause of death globally. Economic losses could reach $100 trillion USD.
+
+---
+
+Question 8 (3 points)
+Which bacterium is commonly associated with the production of extended-spectrum beta-lactamases (ESBL)?
+
+a) Staphylococcus aureus
+b) Streptococcus pneumoniae
+c) Escherichia coli
+d) Mycobacterium tuberculosis
+
+Answer: c) Escherichia coli
+
+Explanation: ESBL production is most common in Escherichia coli and Klebsiella pneumoniae, but E. coli is the most frequent cause of community-acquired ESBL infections worldwide. ESBLs confer resistance to penicillins, cephalosporins, and monobactams.
+
+---
+
+Question 9 (3 points)
+What does "DDD" stand for in antibiotic usage metrics?
+
+a) Daily Defined Dose
+b) Drug Daily Dose
+c) Defined Daily Dose
+d) Dose Daily Definition
+
+Answer: c) Defined Daily Dose
+
+Explanation: DDD stands for Defined Daily Dose and is a statistical measure of drug consumption defined by the World Health Organization (WHO). It represents the assumed average maintenance dose per day for a drug used for its main indication in adults.
+
+---
+
+Question 10 (3 points)
+Which antibiotic stewardship intervention has the strongest evidence base according to systematic reviews?
+
+a) Educational programs alone
+b) Post-prescription review by pharmacists
+c) Prospective audit and feedback with infectious disease physician input
+d) Computerized decision support systems without human oversight
+
+Answer: c) Prospective audit and feedback with infectious disease physician input
+
+Explanation: Systematic reviews consistently show that prospective audit and feedback, particularly when combined with infectious disease physician consultation, has the strongest evidence for reducing antibiotic use and improving outcomes. This intervention combines expertise with direct patient care.
+
+---
+
+Grading Scale:
+30 points = Excellent (90-100%)
+27-29 points = Very Good (80-89%)
+24-26 points = Good (70-79%)
+21-23 points = Satisfactory (60-69%)
+18-20 points = Needs Improvement (50-59%)
+Below 18 points = Requires Review
+
+Areas for Further Study:
+- Review bacterial resistance mechanisms if Q1 incorrect
+- Study WHO priority pathogen lists if Q2/Q3 incorrect
+- Review antibiotic pharmacokinetics if Q4 incorrect
+- Study "One Health" approach if Q5 incorrect
+- Review stewardship principles if Q7/Q10 incorrect

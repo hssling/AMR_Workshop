@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Antimicrobial Resistance Workshop: Interactive Educational Platform for AMR Surveillance, Stewardship, and Epidemiology"
+authors:
+  - family-names: "H S"
+    given-names: "Dr Siddalingaiah"
+    orcid: "https://orcid.org/#######"
+repository-code: "https://github.com/hssling/AMR_Workshop"
+url: "https://github.com/hssling/AMR_Workshop"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: "H S"
+      given-names: "Dr Siddalingaiah"
+      orcid: "https://orcid.org/#######"
+  doi: "pending"
+  journal: "Interactive Medical Education Software"
+  month: 10
+  pages: "Educational Platform"
+  title: "Antimicrobial Resistance Workshop: Interactive Educational Platform for AMR Surveillance, Stewardship, and Epidemiology"
+  volume: "1.0"
+  year: 2025
+abstract: "A comprehensive interactive educational platform designed to advance understanding of antimicrobial resistance (AMR) through evidence-based content, epidemiological tools, and clinical stewardship applications. Features include global AMR surveillance data analysis, stewardship intervention modeling, transmission network analysis, and interactive clinical case studies."
+keywords:
+  - Antimicrobial Resistance
+  - Infectious Diseases
+  - Antibiotic Stewardship
+  - Medical Education
+  - Epidemiology
+  - Interactive Learning Platform
+  - Global Health
+  - Clinical Pharmacology
+license-url: "https://github.com/hssling/AMR_Workshop/blob/main/LICENSE"

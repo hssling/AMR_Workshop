@@ -1,0 +1,250 @@
+AMR Stewardship Clinical Decision-Making Quiz
+
+This quiz assesses clinical competence in antimicrobial stewardship principles and antibiotic prescribing decisions. Total possible points: 32
+
+Topic: Clinical Antimicrobial Stewardship
+Date Created: October 2025
+Target Audience: Physicians, pharmacists, infection preventionists
+
+---
+
+Question 1 (2 points)
+A 45-year-old female with uncomplicated cystitis presents with dysuria and frequency. No fever, flank pain, or systemic symptoms. Most appropriate empirical treatment:
+
+a) Oral ciprofloxacin 500mg BID x 7 days
+b) Oral nitrofurantoin 100mg BID x 5 days
+c) Oral amoxicillin-clavulanate 875/125mg BID x 5 days
+d) Intravenous ceftriaxone 1g daily x 7 days
+
+Answer: b) Oral nitrofurantoin 100mg BID x 5 days
+
+Explanation: Nitrofurantoin is the drug of choice for uncomplicated cystitis due to excellent susceptibility patterns (>90%), narrow spectrum, and avoidance of fluoroquinolone use when not indicated. Fluoroquinolones should be reserved for more severe infections.
+
+---
+
+Question 2 (3 points)
+A 68-year-old male with COPD exacerbation. Fever 38.7°C, increased sputum, WBC 14,000/μL. Recent hospitalization 2 months ago with similar episode. Gram stain shows Gram-positive cocci in pairs. Which statement is correct regarding empirical therapy?
+
+a) Third-generation cephalosporin is always indicated
+b) Sputum culture should be obtained before starting antibiotics
+c) Oral amoxicillin should be started immediately
+d) Intravenous vancomycin plus piperacillin-tazobactam empirically
+
+Answer: b) Sputum culture should be obtained before starting antibiotics
+
+Explanation: In COPD exacerbations, sputum culture should be obtained prior to administering antibiotics if possible. Empirical therapy may be justified based on clinical severity, but microbiology results guide definitive therapy. Recent hospitalization is a risk factor for MDR organisms.
+
+---
+
+Question 3 (2 points)
+De-escalation therapy should be considered when:
+
+a) Patient has persistent fever despite 72 hours of appropriate antibiotics
+b) Microbiology results identify susceptible organism
+c) Patient is not improving clinically
+d) Antibiotics were started empirically for severe sepsis
+
+Answer: b) Microbiology results identify susceptible organism
+
+Explanation: De-escalation involves changing to narrower-spectrum agents once susceptibility is confirmed. This reduces selection pressure for resistant organisms while maintaining efficacy.
+
+---
+
+Question 4 (3 points)
+A 72-year-old nursing home resident develops fever (39°C) and confusion. Abdominal pain and loose stools noted. Suspected C. difficile infection. Which initial management is inappropriate?
+
+a) Stop current antibiotics immediately
+b) Oral vancomycin 125mg QID
+c) Obtain stool PCR for C. difficile
+d) Isolation precautions including gloving
+
+Answer: a) Stop current antibiotics immediately
+
+Explanation: Stop the inciting antibiotic if possible, but in severe cases, may need to continue treating the primary infection while treating CDI. Full antibiotic cessation is not always possible or appropriate. Oral vancomycin is preferred for severe CDI.
+
+---
+
+Question 5 (2 points)
+In antimicrobial stewardship, duration optimization means:
+
+a) Always using the maximum possible duration
+b) Using the shortest effective duration supported by evidence
+c) Extending therapy to avoid recurrence
+d) Doubling the usual duration in elderly patients
+
+Answer: b) Using the shortest effective duration supported by evidence
+
+Explanation: Duration optimization minimizes selection pressure by using the shortest effective course. Longer durations increase risk of resistance development and CDI without additional benefit for most infections.
+
+---
+
+Question 6 (3 points)
+A surgical prophylaxis protocol should include:
+
+a) Continuing antibiotics for 7-10 days post-op
+b) Single pre-operative dose for most procedures
+c) Post-operative antibiotics until drains removed
+d) Broad-spectrum combination therapy routinely
+
+Answer: b) Single pre-operative dose for most procedures
+
+Explanation: Surgical prophylaxis should be redosed during surgery if needed, but post-operative continuation increases resistance risk and CDI without benefit. Duration should be <24 hours for most procedures, unless specifically indicated.
+
+---
+
+Question 7 (3 points)
+Which patient factor does NOT increase risk for multidrug-resistant infections?
+
+a) Hospitalization within past 3 months
+b) Residence in long-term care facility
+c) Intravascular catheter present within past month
+d) Oral contraceptive use
+
+Answer: d) Oral contraceptive use
+
+Explanation: While oral contraceptives can rarely cause UTIs, they do not increase risk for MDR organisms. Healthcare exposure (hospitals, LTCF), recent catheterization, and recent antibiotics are stronger risk factors for MDR infections.
+
+---
+
+Question 8 (2 points)
+When converting IV to oral antibiotics (IV to PO switch), which criterion is essential?
+
+a) Patient must be afebrile for 48 hours
+b) Oral absorption must be guaranteed
+c) Patient must tolerate oral medications
+d) All of the above
+
+Answer: d) All of the above
+
+Explanation: Successful IV to PO conversion requires patient tolerability, adequate absorption, and often clinical stability (afebrile) to minimize risk of treatment failure. This strategy reduces catheter complications and length of stay.
+
+---
+
+Question 9 (3 points)
+A patient on broad-spectrum antibiotics develops new fever and hypotension. Blood cultures pending. Most appropriate initial management:
+
+a) Change to different broad-spectrum monotherapy
+b) Add vancomycin plus empiric antifungal coverage
+c) Obtain repeat blood cultures and reassess
+d) Discontinue all antibiotics immediately
+
+Answer: c) Obtain repeat blood cultures and reassess
+
+Explanation: New fever and hypotension suggest possible Clostridioides difficile infection, antibiotic-associated enterocolitis, or breakthrough bacteremia. Repeat cultures and reassessment are needed before empiric escalation. Stopping antibiotics may be appropriate in some cases.
+
+---
+
+Question 10 (2 points)
+The "4 Moments of Antimicrobial Prescribing" includes which component?
+
+a) Post-prescribing review only
+b) Prescribing, monitoring, review, and documentation
+c) Empiric therapy only
+d) De-escalation only
+
+Answer: b) Prescribing, monitoring, review, and documentation
+
+Explanation: The 4 Moments framework includes: (1) Is there an infection requiring antibiotics? (2) What regimen is appropriate? (3) Are there opportunities for optimization? (4) Anticipate need for revision or stop?
+
+---
+
+Question 11 (2 points)
+In antibiotic dosing optimization for stewardship:
+
+a) Higher doses always improve outcomes
+b) Therapeutic drug monitoring is unnecessary
+c) Dosing should maximize concentration above MIC
+d) Renal function is irrelevant to dosing
+
+Answer: c) Dosing should maximize concentration above MIC
+
+Explanation: Antimicrobial dosing should achieve concentrations above the minimum inhibitory concentration (MIC) for adequate time, while avoiding toxicity. PK/PD principles guide optimal dosing for stewardship success.
+
+---
+
+Question 12 (2 points)
+Which diagnostic testing is MOST cost-effective for stewardship outcomes?
+
+a) Daily procalcitonin measurements
+b) Multiplex PCR respiratory panels
+c) Urine cultures for all catheterized patients
+d) Stool cultures for all diarrhea cases
+
+Answer: b) Multiplex PCR respiratory panels
+
+Explanation: Rapid diagnostic testing like PCR panels for respiratory infections enables earlier de-escalation and reduced broad-spectrum antibiotic use. Cost-effectiveness varies by patient population and local resistance patterns.
+
+---
+
+Question 13 (3 points)
+A septic patient with Extended-spectrum beta-lactamase (ESBL)-producing E. coli bacteremia is stable after 48 hours of meropenem. Which statement regarding carbapenem-sparing regimens is accurate?
+
+a) Should always switch to oral quinolones immediately
+b) Risk of treatment failure is zero
+c) Oral options include amoxicillin-clavulanate if MIC ≤4 mcg/mL
+d) Should continue IV carbapenem for full 14 days
+
+Answer: c) Oral options include amoxicillin-clavulanate if MIC ≤4 mcg/mL
+
+Explanation: For ESBL-E. coli with meropenem susceptibility, oral step-down options include TMP-SMX, fluoroquinolones (if susceptible), or amoxicillin-clavulanate. MIC testing guides appropriate choices, but clinical stability and controlled source are required.
+
+---
+
+Question 14 (3 points)
+Regarding prophylactic antibiotics for surgery, which factor does NOT influence selection?
+
+a) Type of surgery (clean vs. contaminated)
+b) Patient allergies
+c) Local resistance patterns
+d) Physician preference
+
+Answer: d) Physician preference
+
+Explanation: Prophylaxis should be evidence-based, matching local microbiology, patient risk factors, and procedure type. Physician preference alone is not an evidence-based criterion for selection.
+
+---
+
+Question 15 (2 points)
+Antimicrobial allergy labels may represent what error rate?
+
+a) Never occur - all documented allergies are accurate
+b) 10-15% false positive rate
+c) 50% false positive rate
+c) Always accurate in electronic records
+
+Answer: b) 10-15% false positive rate
+
+Explanation: Study data suggests 10-15% of penicillin allergy labels are incorrect, often due to childhood reactions or viral exanthems. Many patients can tolerate beta-lactams despite "penicillin allergy" labels.
+
+---
+
+Question 16 (3 points)
+For outpatient parenteral antibiotic therapy (OPAT) stewardship considerations:
+
+a) All patients are candidates for OPAT
+b) Oral step-down should be evaluated within 3-5 days
+c) PICC lines are required for all OPAT
+d) OPAT eliminates all follow-up visits
+
+Answer: b) Oral step-down should be evaluated within 3-5 days
+
+Explanation: OPAT enables early discharge but requires careful monitoring for complications, drug interactions, and oral conversion opportunities. Line choice depends on duration and vein assessment, not universal PICC requirement.
+
+---
+
+Grading Scale:
+32 points = Expert Level (90-100%)
+29-31 points = Advanced (80-89%)
+26-28 points = Proficient (70-79%)
+23-25 points = Developing (60-69%)
+20-22 points = Needs Improvement (50-59%)
+Below 20 points = Require Additional Training
+
+Clinical Applications to Focus On:
+- Review empiric therapy guidelines in local setting
+- Study antibiotic duration optimization data
+- Review local antibiogram data for formulary decisions
+- Practice IV to PO conversion criteria
+- Understand surgical prophylaxis principles
+
+This quiz should be interpreted in the context of your institutional guidelines and local microbiology patterns. Consider revalidation following training updates.

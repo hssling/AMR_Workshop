@@ -1,0 +1,27 @@
+intervention_type,intervention_name,hospital_size_beds,implementation_cost_usd,annual_running_cost_usd,expected_antibiotic_reduction_percent,resistance_reduction_6months_percent,resistance_reduction_12months_percent,implementation_time_months,roi_12months_percent,adoption_rate_percent,clinician_satisfaction_score,patient_outcome_improvement_percent,sustainability_3years_percent,evidence_level,who_recommended,cpd_points_various_countries
+Post-prescription review,Post-prescription Antibiotic Review,200-500,25000,15000,25,12,18,2,145,85,8.1,15,89,B,class,2-4 CPD points
+Audit and Feedback,Prospective Audit with Feedback,500-800,40000,35000,35,22,32,3,180,78,8.4,22,92,A,class,3-6 CPD points
+CDS system,CDS System with Provider Training,300-600,80000,40000,28,16,24,4,120,72,7.8,18,85,B,pending,4-8 CPD points
+Formulary restriction,Antibiotic Formulary Restriction Program,400-700,15000,12000,22,14,20,1,220,89,7.9,16,94,A,class,2-3 CPD points
+Guideline development,Evidence-Based Guideline Development,200-1000,30000,20000,30,19,28,6,160,76,8.2,20,87,A,class,5-7 CPD points
+Education and Training,Clinician Education and Training Programs,100-500,20000,18000,15,8,12,3,110,81,8.3,12,91,B,class,6-10 CPD points
+Streamlining diagnostics,Rapid Diagnostic Test Implementation,300-600,60000,25000,40,28,42,4,190,69,8.5,25,86,A,pending,4-6 CPD points
+Unit-specific policies,Ward-Specific Antimicrobial Policies,150-400,12000,10000,38,26,38,2,240,82,8.0,23,96,A,class,3-5 CPD points
+Pharmacy-led interventions,Pharmacy-Led Antimicrobial Stewardship,200-600,35000,28000,31,20,29,3,170,77,8.2,19,90,A,class,4-6 CPD points
+ID consultation programs,ID Physician Consultation Programs,400-800,45000,38000,45,35,52,4,200,74,8.6,28,88,A,class,5-8 CPD points
+Microbiology reporting,Enhanced Microbiology Reporting,300-700,18000,15000,33,21,31,2,195,83,7.7,21,93,A,class,3-4 CPD points
+Outpatient stewardship,Outpatient Stewardship Programs,500-1000,55000,42000,26,17,25,5,140,68,8.1,17,82,B,pending,4-7 CPD points
+Long-term care facility,LTCF Antimicrobial Stewardship,100-200,25000,20000,29,18,26,3,165,71,8.0,18,89,B,class,3-5 CPD points
+Telemedicine stewardship,Remote Consultation and Audit Programs,400-900,65000,48000,34,24,36,4,155,73,8.4,22,85,A,class,5-9 CPD points
+Prescription tracking,Electronic Prescription Tracking Systems,600-1200,75000,55000,37,27,41,6,175,75,7.9,24,87,A,pending,6-10 CPD points
+Medication reconciliation,Antibiotic Medication Reconciliation,200-500,30000,24000,23,14,21,2,185,79,8.3,16,94,B,class,3-5 CPD points
+Patient education,Patient Education and Engagement Programs,100-300,18000,14000,18,10,15,3,125,76,8.7,13,91,A,class,2-4 CPD points
+Supply chain optimization,Antibiotic Supply Chain Optimization,700-1500,85000,62000,41,31,47,8,160,67,8.1,26,83,A,pending,7-11 CPD points
+Nursing-led protocols,Nursing-Led Stewardship Protocols,150-400,22000,18000,27,17,25,2,210,84,8.5,19,95,B,class,4-6 CPD points
+Multidisciplinary teams,Multidisciplinary ASP Teams Formation,300-800,42000,35000,42,32,48,4,225,78,8.4,29,92,A,class,5-8 CPD points
+Patient-specific dosing,Personalized Antibiotic Dosing Programs,200-500,35000,29000,36,25,38,5,185,72,8.2,23,89,B,pending,4-7 CPD points
+Pharmacy workflow,Optimized Pharmacy Workflow Integration,400-900,58000,45000,32,22,34,4,195,79,7.8,21,90,A,class,5-8 CPD points
+Data analytics,Advanced Data Analytics for Surveillance,500-1200,95000,73000,46,36,54,7,170,71,8.3,31,86,A,pending,8-12 CPD points
+Mobile apps,Mobile Health Apps for Prescribing Decisions,300-700,45000,36000,24,15,22,3,135,74,7.9,16,88,B,pending,3-5 CPD points
+Behavioral interventions,Behavioral Economic Interventions,200-600,28000,22000,19,11,17,2,155,77,8.0,14,93,C,class,2-3 CPD points
+Machine learning integration,AI/ML for Prediction and Decision Support,800-2000,125000,95000,51,41,61,10,150,66,7.6,35,79,A,pending,10-15 CPD points

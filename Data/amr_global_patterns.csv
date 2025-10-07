@@ -1,0 +1,33 @@
+organism,pathogen_type,antibiotic,resistance_rate,country_region,year,interpretation,total_isolates,mortality_rate,economic_burden_usd
+Acinetobacter baumannii,Gram-negative,Colistin,87.3,Eastern Mediterranean,2021,R,4500,65.4,12800000
+Acinetobacter baumannii,Gram-negative,Colistin,92.1,Asia,2021,R,3800,68.2,15400000
+Acinetobacter baumannii,Gram-negative,Tigecycline,45.8,Europe,2021,I,3200,45.1,8900000
+Acinetobacter baumannii,Gram-negative,Polymyxin B,78.6,South America,2021,R,2800,58.9,12800000
+Acinetobacter baumannii,Gram-negative,Carbapenems,91.4,Africa,2021,R,3600,72.3,15600000
+Enterobacteriaceae,Gram-negative,3rd Gen Cephalosporins,54.2,Global,2021,R,34500,23.4,45600000
+Enterobacteriaceae,Gram-negative,Ciprofloxacin,67.8,Asia,2021,R,28900,18.7,32100000
+Enterobacteriaceae,Gram-negative,Ciprofloxacin,45.1,Africa,2021,R,23700,21.3,28700000
+Enterobacteriaceae,Gram-negative,Trimethoprim-Sulfamethoxazole,58.9,Global,2021,R,38900,16.5,23100000
+Klebsiella pneumoniae,Gram-negative,Ceftazidime,78.4,Asia,2021,R,18400,41.2,28700000
+Klebsiella pneumoniae,Gram-negative,Ceftazidime,62.1,Europe,2021,R,14200,35.8,19800000
+Klebsiella pneumoniae,Gram-negative,Ceftazidime,83.7,Eastern Mediterranean,2021,R,13900,48.6,31200000
+Klebsiella pneumoniae,Gram-negative,Amoxicillin-Clavulanate,56.3,Africa,2021,R,16500,29.4,18900000
+Pseudomonas aeruginosa,Gram-negative,Ciprofloxacin,22.4,Europe,2021,I,12400,18.2,14500000
+Pseudomonas aeruginosa,Gram-negative,Piperacillin-Tazobactam,21.8,North America,2021,I,9800,15.6,11200000
+Pseudomonas aeruginosa,Gram-negative,Meropenem,26.1,Global,2021,I,15600,22.1,18900000
+Staphylococcus aureus,Gram-positive,Methicillin,38.9,Global,2021,R,22300,19.4,21600000
+Staphylococcus aureus,Gram-positive,Methicillin,45.2,America Region,2021,R,18900,23.1,24800000
+Staphylococcus aureus,Gram-positive,Methicillin,52.3,Eastern Mediterranean,2021,R,12700,28.7,18900000
+Staphylococcus aureus,Gram-positive,Vancomycin,1.2,Global,2021,S,28900,11.4,2900000
+Streptococcus pneumoniae,Gram-positive,Penicillin,31.8,Global,2021,R,34200,12.3,22300000
+Streptococcus pneumoniae,Gram-positive,Penicillin,45.6,Africa,2021,R,15800,16.8,14500000
+Streptococcus pneumoniae,Gram-positive,Erythromycin,28.4,Global,2021,R,29800,9.2,13800000
+Streptococcus pneumoniae,Gram-positive,Erythromycin,32.1,Asia,2021,R,21300,11.1,14900000
+Enterococcus spp.,Gram-positive,Vancomycin,18.7,Global,2021,I,14500,14.5,13400000
+Enterococcus spp.,Gram-positive,Vancomycin,25.4,America Region,2021,R,11200,16.9,14500000
+Salmonella spp.,Gram-negative,Fluoroquinolones,29.6,Global,2021,R,8900,3.2,3200000
+Salmonella spp.,Gram-negative,Fluoropuinolones,45.3,Asia,2021,R,5400,5.1,4900000
+Shigella spp.,Gram-negative,Fluoroquinolones,51.2,Global,2021,R,6800,4.8,4400000
+Shigella spp.,Gram-negative,Ciprofloxacin,67.8,Asia,2021,R,4300,7.2,6800000
+Neisseria gonorrhoeae,Gram-negative,Ceftriaxone,12.3,Global,2021,I,15600,8.9,9200000
+Neisseria gonorrhoeae,Gram-negative,Azithromycin,38.4,Global,2021,R,16700,12.1,14500000
